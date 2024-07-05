@@ -1,5 +1,3 @@
-# 22I-2033_22I-1988_22I-1895_Proj_DS_A
-
 Implementation of spotify recomendation system
 
 1. Introduction:
